@@ -1,0 +1,18 @@
+<li class="has-submenu" id="rez">
+    <a href="index.html">Rezultati</a>
+    <!--<ul class="submenu menu vertical" data-submenu>
+          <li><a href="#">One</a></li>
+          <li><a href="#">Two</a></li>
+          <li><a href="#">Three</a></li>
+        </ul>-->
+  </li>
+  <li id="slika"><a href="slika.html">Pregled prvenstava</a></li>
+  <li><a href="povijest-prvenstava/" target="_blank">Povijest prvenstava</a></li>
+  <li id="impressum"><a href="impressum.html">Impressum</a></li>
+
+  <script>
+
+if (document.title=="Nogometni leksikon"){$("#rez").addClass("active")}
+  else if (document.title=="Nogometni leksikon – Pregled prvenstava"){$("#slika").addClass("active")}
+  else if (document.title=="Nogometni leksikon – Impressum"){$("#impressum").addClass("active")}
+  </script>
