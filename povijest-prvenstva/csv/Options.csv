@@ -2,7 +2,7 @@ Setting,Customize,Hints
 Storymap Info,,"For help, see tutorial in HandsOnDataViz.org"
 Storymap Title,Povijest svijetskih nogometnih prvenstava,
 Storymap Subtitle,,"Add your subtitle, or delete that portion"
-Storymap Logo,https://joomla4.lzmk.hr/images/logo/lzmk-logo-test22.png,Path to a logo image
+Storymap Logo,https://www.lzmk.hr/images/logo/logo-lzmk.png,Path to a logo image
 Google Analytics Tracking ID,,Sample format: UA-5488840-29
 Map Settings,,"For help, see tutorial in HandsOnDataViz.org"
 Basemap Tiles,CartoDB.Positron,Drop-down menu for background basemap tiles
